@@ -9,5 +9,6 @@ repository = "https://github.com/alexpyattaev/borrowck_sacrifices"
 documentation = "https://docs.rs/borrowck_sacrifices"
 keywords = ["unsafe", "borrow", "mutable"]
 categories = ["rust-patterns"]
+readme="README.md"
 
 [dependencies]
